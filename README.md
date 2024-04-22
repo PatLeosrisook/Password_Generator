@@ -4,7 +4,7 @@ This project one of the challenge I took from [FrontendMentor](www.frontendmento
 The challenge is to develop a password generator as per the design given in figma file format by the challenge. 
 
 ## How to run the project.
-simply run `npm start` to start the application. 
+Clone this repo into your local machine then navigate to this file on your terminal  and simply run `npm start` to start the application. 
 
 ## My process
 1. Look through the design file that was given by the challenge.
